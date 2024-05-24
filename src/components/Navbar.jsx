@@ -23,7 +23,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white shadow-md">
       <div className="container mx-auto px-4 py-2 flex justify-between items-center">
-        <div className="text-2xl font-bold">MyPortfolio</div>
+        <div className="text-2xl font-bold">Yusuf Aslan</div>
         <div className="space-x-4">
           <button onClick={() => smoothScrollTo('home')} className="text-gray-700 hover:text-blue-500">Home</button>
           <button onClick={() => smoothScrollTo('about')} className="text-gray-700 hover:text-blue-500">About</button>

@@ -23,7 +23,7 @@ const Hero = () => {
   return (
     <section id="home" className="bg-blue-600 text-white py-20">
       <div className="container mx-auto px-4 text-center">
-        <h1 className="text-5xl font-bold mb-4">Hello, I'm John Doe</h1>
+        <h1 className="text-5xl font-bold mb-4">Hello, I'm Yusuf Aslan</h1>
         <p className="text-xl mb-8">I'm a software developer specializing in building exceptional digital experiences.</p>
         <button onClick={() => smoothScrollTo('contact')} className="bg-white text-blue-600 px-6 py-3 rounded-full font-semibold">Get in Touch</button>
       </div>
